@@ -5,7 +5,6 @@
     <AspNetVersion>8.0.0</AspNetVersion>
     <SystemExtensionVersion>8.0.1</SystemExtensionVersion>
     <EntityFramworkCoreVersion>8.0.0</EntityFramworkCoreVersion>
-    <VSCodeGeneratorVersion>9.0.0</VSCodeGeneratorVersion>
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="Ardalis.ApiEndpoints" Version="4.1.0" />
